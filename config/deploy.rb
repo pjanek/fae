@@ -14,7 +14,7 @@ set :rvm_type, :system
 
 set :keep_releases, 5
 
-# variable for forked version of capistrano-rails
+# variable for forked version of capistrano-rails.
 set :rails_path, 'spec/dummy'
 
 server '54.164.40.189',
